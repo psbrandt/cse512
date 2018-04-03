@@ -1,6 +1,6 @@
 {
   "name": "cse512",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Resources for the UW CSE 512 class.",
   "main": "index.js",
   "scripts": {
